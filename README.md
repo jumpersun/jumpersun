@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/constellation-atlas.png" width="100%" alt="Ming / jumpersun — connecting ideas into practical tools" />
+  <img src="assets/constellation-atlas.png" width="100%" alt="Constellation atlas — connecting ideas into practical tools" />
 </p>
 
 ## Featured projects
