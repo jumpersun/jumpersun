@@ -1,37 +1,19 @@
-<p align="center">
-  <img src="assets/constellation-atlas.png" width="100%" alt="Constellation atlas — connecting ideas into practical tools" />
+![Hey, I'm jumpersun.](https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=28&duration=3500&pause=2000&color=58A6FF&vCenter=true&width=435&height=45&lines=Hey%2C+I%27m+jumpersun.)
+
+`A developer building things that are useful, fun, or both.`
+
+🛠️ Exploring AI, automating the repetitive stuff, and making everyday tools a little better.
+
+🎬 Turning code into animations and playful visuals.
+
+✍️ Sharing what I build and learn along the way.
+
+🎸 Playing guitar when I'm away from the keyboard.
+
+🏋️ Making time for a good workout.
+
+<p align="left">
+  <a href="http://www.jumpersun.fun/"><img src="https://img.shields.io/badge/Website-Visit-181717?style=flat-square&logoColor=white" alt="Personal website" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://blog.csdn.net/qq_51808107"><img src="https://img.shields.io/badge/CSDN-Read-FC5531?style=flat-square&logo=csdn&logoColor=white" alt="CSDN blog" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/jumper_sun"><img src="https://img.shields.io/badge/X-Follow-181717?style=flat-square&logo=x&logoColor=white" alt="X · @jumper_sun" /></a>
 </p>
-
-## Featured projects
-
-Some things I'm building and exploring.
-
-<table>
-  <tr>
-    <td width="48" align="center"><img src="assets/terminal-window.svg" width="32" alt="Terminal" /></td>
-    <td><strong><a href="https://github.com/jumpersun/ghostty-starship">ghostty-starship</a></strong><br /><sub>面向 macOS 的 Ghostty + Starship 终端配置，提供快速安装。</sub></td>
-    <td><sub>Shell · Public</sub></td>
-  </tr>
-  <tr>
-    <td width="48" align="center"><img src="assets/chat-circle.svg" width="32" alt="Chat" /></td>
-    <td><strong><a href="https://github.com/jumpersun/chat">chat</a></strong><br /><sub>基于 React、FastAPI 与 OpenAI API 的流式多会话聊天应用。</sub></td>
-    <td><sub>TypeScript · Python</sub></td>
-  </tr>
-  <tr>
-    <td width="48" align="center"><img src="assets/cube.svg" width="32" alt="Template" /></td>
-    <td><strong><a href="https://github.com/jumpersun/ai-saas-template">ai-saas-template</a></strong><br /><sub>用于研究 Next.js 15 AI SaaS 架构的参考 fork。</sub></td>
-    <td><sub>TypeScript · Fork</sub></td>
-  </tr>
-</table>
-
-## Exploring now
-
-- AI-assisted developer tools
-- Workflow automation
-- Calmer terminal and developer experiences
-
-## Connect
-
-[github.com/jumpersun](https://github.com/jumpersun)
-
-<p align="right"><sub>Build · Automate · Explore · Repeat</sub></p>
